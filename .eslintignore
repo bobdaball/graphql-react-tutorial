@@ -1,0 +1,6 @@
+# Generated folders and files
+**/node_modules
+**/npm-debug.log
+**/packages
+**/quality
+**/reports
