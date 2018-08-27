@@ -2,4 +2,5 @@ datamodel: datamodel.graphql
 secret: mysecret123
 hooks:
   post-deploy:
-    - yarn graphql get-schema --project database
+    - graphql get-schema --project database
+endpoint: https://us1.prisma.sh/alexander-mire-1f45b7/database/dev
