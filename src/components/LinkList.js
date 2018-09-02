@@ -64,3 +64,4 @@ class LinkList extends Component {
 }
 
 export default LinkList;
+export const FEED_QUERY = ...;
